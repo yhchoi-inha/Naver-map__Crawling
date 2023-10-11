@@ -1,0 +1,1804 @@
+{
+    "음식점 정보": [
+        {
+            "name": "용산역 (고속철도)",
+            "parking_type": "KTX정차역",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "용산역 1호선",
+            "parking_type": "지하철,전철",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "국립한글박물관",
+            "parking_type": "박물관",
+            "road_address": "서울 용산구 서빙고로 139",
+            "jibun_address": "용산동6가 168-6"
+        },
+        {
+            "name": "테디뵈르하우스 용산점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로40가길 42 1층",
+            "jibun_address": "한강로2가 49-1 1층"
+        },
+        {
+            "name": "CGV 용산아이파크몰",
+            "parking_type": "영화관",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "쌤쌤쌤",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로50길 25 1층",
+            "jibun_address": "한강로2가 47-3 1층"
+        },
+        {
+            "name": "도토리",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로52길 25-6 1층",
+            "jibun_address": "한강로1가 227 1층"
+        },
+        {
+            "name": "능동미나리",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로40길 28 1, 2층",
+            "jibun_address": "한강로2가 148-6 1, 2층"
+        },
+        {
+            "name": "몽탄",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 백범로99길 50",
+            "jibun_address": "한강로1가 251-1"
+        },
+        {
+            "name": "미미옥 신용산점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로15길 27",
+            "jibun_address": "한강로3가 40-463"
+        },
+        {
+            "name": "효뜨",
+            "parking_type": "베트남음식",
+            "road_address": "서울 용산구 한강대로40가길 6 1층 2층",
+            "jibun_address": "한강로2가 73-3 1층 2층"
+        },
+        {
+            "name": "브레디포스트 용산",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로44길 6 2층",
+            "jibun_address": "한강로2가 114-3 2층"
+        },
+        {
+            "name": "아모레퍼시픽미술관",
+            "parking_type": "미술관",
+            "road_address": "서울 용산구 한강대로 100",
+            "jibun_address": "한강로2가 181"
+        },
+        {
+            "name": "이촌 한강공원",
+            "parking_type": "시민공원",
+            "road_address": "서울 용산구 이촌로72길 62 한강공원 이촌안내센터",
+            "jibun_address": "이촌동 302-17"
+        },
+        {
+            "name": "팀호완 용산점",
+            "parking_type": "딤섬,중식만두",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 패션파크 1층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 패션파크 1층"
+        },
+        {
+            "name": "카츠신보",
+            "parking_type": "돈가스",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "카토",
+            "parking_type": "브런치",
+            "road_address": "서울 용산구 한강대로7길 22-7 1층 2층",
+            "jibun_address": "한강로3가 40-224 1층 2층"
+        },
+        {
+            "name": "더기와 용산점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로38가길 23 1, 2층",
+            "jibun_address": "한강로2가 148-8 1, 2층"
+        },
+        {
+            "name": "낙원테산도 용산아이파크몰점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로23길 55 6층",
+            "jibun_address": "한강로3가 40-999 6층"
+        },
+        {
+            "name": "올드페리도넛 용산아이파크몰점",
+            "parking_type": "도넛",
+            "road_address": "서울 용산구 한강대로23길 55 4층",
+            "jibun_address": "한강로3가 40-999 4층"
+        },
+        {
+            "name": "용산마루",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로15길 19-28 1층",
+            "jibun_address": "한강로3가 40-461 1층"
+        },
+        {
+            "name": "판코네",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로40가길 7 풍양빌딩 1층 판코네",
+            "jibun_address": "한강로2가 80-2 풍양빌딩 1층 판코네"
+        },
+        {
+            "name": "드포레 와인&비스트로",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로15길 8-3 1층",
+            "jibun_address": "한강로3가 40-140 1층"
+        },
+        {
+            "name": "진작다이닝 용산점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로 100 B1층 진작다이닝",
+            "jibun_address": "한강로2가 424 B1층 진작다이닝"
+        },
+        {
+            "name": "대원뮤지엄",
+            "parking_type": "전시관",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테마파크 6층 팝콘D스퀘어 내",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테마파크 6층 팝콘D스퀘어 내"
+        },
+        {
+            "name": "차알 브라운",
+            "parking_type": "중식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "심야포차 시실리",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로 130-2",
+            "jibun_address": "한강로2가 116-2"
+        },
+        {
+            "name": "나인트리 프리미어 로카우스 호텔 서울 용산",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 한강대로23길 25 나인트리 프리미어 로카우스 호텔 서울 용산",
+            "jibun_address": "한강로3가 40-708 나인트리 프리미어 로카우스 호텔 서울 용산"
+        },
+        {
+            "name": "꺼거",
+            "parking_type": "중식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "노보텔 앰배서더 서울 용산",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 청파로20길 95",
+            "jibun_address": "한강로3가 40-969"
+        },
+        {
+            "name": "쇼니노",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로21길 17-18 1층",
+            "jibun_address": "한강로3가 40-126 1층"
+        },
+        {
+            "name": "현선이네 용산본점",
+            "parking_type": "떡볶이",
+            "road_address": "서울 용산구 한강대로39길 2-13",
+            "jibun_address": "한강로2가 305-1"
+        },
+        {
+            "name": "버뮤다삼각지",
+            "parking_type": "멕시코,남미음식",
+            "road_address": "서울 용산구 한강대로52길 19 1,2층",
+            "jibun_address": "한강로2가 24-5 1,2층"
+        },
+        {
+            "name": "심퍼티쿠시 용산점",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로52길 17-3 1층",
+            "jibun_address": "한강로2가 31 1층"
+        },
+        {
+            "name": "낙원타코 용산아이파크몰점",
+            "parking_type": "멕시코,남미음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 테이스트파크 5층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 테이스트파크 5층"
+        },
+        {
+            "name": "배키욘방 신용산직영점",
+            "parking_type": "일식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "오근내2닭갈비",
+            "parking_type": "닭요리",
+            "road_address": "서울 용산구 한강대로11길 13 용일빌딩",
+            "jibun_address": "한강로3가 40-9 용일빌딩"
+        },
+        {
+            "name": "드래곤힐스파",
+            "parking_type": "찜질방",
+            "road_address": "서울 용산구 한강대로21나길 40",
+            "jibun_address": "한강로3가 40-946"
+        },
+        {
+            "name": "오잇",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 신흥로 95",
+            "jibun_address": "용산동2가 1-471"
+        },
+        {
+            "name": "개나리부두",
+            "parking_type": "조개요리",
+            "road_address": "서울 용산구 한강대로52길 29-9 1층",
+            "jibun_address": "한강로1가 223-2 1층"
+        },
+        {
+            "name": "아웃백스테이크하우스 용산 아이파크몰점",
+            "parking_type": "패밀리레스토랑",
+            "road_address": "서울 용산구 한강대로23길 55 용산역 용산아이파크몰 더 센터 7층",
+            "jibun_address": "한강로3가 40-999 용산역 용산아이파크몰 더 센터 7층"
+        },
+        {
+            "name": "쉐이크쉑 용산 아이파크몰점",
+            "parking_type": "햄버거",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "섬집",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로14가길 2 섬집",
+            "jibun_address": "한강로3가 65-336 섬집"
+        },
+        {
+            "name": "갓잇 용산점",
+            "parking_type": "멕시코,남미음식",
+            "road_address": "서울 용산구 한강대로44길 6 1F GODEAT",
+            "jibun_address": "한강로2가 114-3 1F GODEAT"
+        },
+        {
+            "name": "키보",
+            "parking_type": "이자카야",
+            "road_address": "서울 용산구 한강대로50길 17",
+            "jibun_address": "한강로2가 46-2"
+        },
+        {
+            "name": "알랭들롱",
+            "parking_type": "프랑스음식",
+            "road_address": "서울 용산구 한강대로52길 26 1층 알랭들롱",
+            "jibun_address": "한강로2가 48-2 1층 알랭들롱"
+        },
+        {
+            "name": "대림국수 신용산점",
+            "parking_type": "국수",
+            "road_address": "서울 용산구 한강대로40길 15 1층 2층 3층",
+            "jibun_address": "한강로2가 122-7 1층 2층 3층"
+        },
+        {
+            "name": "꿈꾸는메밀",
+            "parking_type": "막국수",
+            "road_address": "서울 용산구 한강대로23길 55 용산역 아이파크몰 더 센터 7층",
+            "jibun_address": "한강로3가 40-999 용산역 아이파크몰 더 센터 7층"
+        },
+        {
+            "name": "화양연화",
+            "parking_type": "육류,고기요리",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "쏭타이치앙마이 신용산본점",
+            "parking_type": "태국음식",
+            "road_address": "서울 용산구 한강대로40길 39-5 1층 쏭타이치앙마이",
+            "jibun_address": "한강로2가 73-4 1층 쏭타이치앙마이"
+        },
+        {
+            "name": "수바이샹 훠궈",
+            "parking_type": "중식당",
+            "road_address": "서울 마포구 도화길 33 2층",
+            "jibun_address": "도화동 179-14 2층"
+        },
+        {
+            "name": "버거보이 신용산점",
+            "parking_type": "햄버거",
+            "road_address": "서울 용산구 한강대로15길 29",
+            "jibun_address": "한강로3가 40-173"
+        },
+        {
+            "name": "올딧세",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로21길 29-16 1층",
+            "jibun_address": "한강로3가 40-508 1층"
+        },
+        {
+            "name": "닌니쿠 요코초 신용산본점",
+            "parking_type": "이자카야",
+            "road_address": "서울 용산구 한강대로52길 34 101호, 102호",
+            "jibun_address": "한강로2가 49-5 101호, 102호"
+        },
+        {
+            "name": "뮬리노 에스프레소바 용산아이파크몰점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 패션파크 5F",
+            "jibun_address": "한강로3가 40-999 아이파크몰 패션파크 5F"
+        },
+        {
+            "name": "먼치",
+            "parking_type": "양식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "청도미나리식당",
+            "parking_type": "샤브샤브",
+            "road_address": "서울 용산구 한강대로38가길 7-18 지하층",
+            "jibun_address": "한강로2가 156-13 지하층"
+        },
+        {
+            "name": "이비스 스타일 앰배서더 서울 용산",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 청파로20길 95",
+            "jibun_address": "한강로3가 40-969"
+        },
+        {
+            "name": "오제제 신용산점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로 100 지하1층 B106-8호",
+            "jibun_address": "한강로2가 424 지하1층 B106-8호"
+        },
+        {
+            "name": "국립중앙박물관 어린이박물관",
+            "parking_type": "박물관",
+            "road_address": "서울 용산구 서빙고로 137 국립중앙박물관",
+            "jibun_address": "용산동6가 168-6 국립중앙박물관"
+        },
+        {
+            "name": "브레니파이칸틴",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로 135-1 1층",
+            "jibun_address": "한강로2가 250-1 1층"
+        },
+        {
+            "name": "쿠촐로 서울",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로 100 아모레퍼시픽 2F",
+            "jibun_address": "한강로2가 424 아모레퍼시픽 2F"
+        },
+        {
+            "name": "파친코",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로40길 33 지하1층",
+            "jibun_address": "한강로2가 74-2 지하1층"
+        },
+        {
+            "name": "느루",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로 126-2 1층",
+            "jibun_address": "한강로2가 134-1 1층"
+        },
+        {
+            "name": "아그라 용산아이파크몰점",
+            "parking_type": "인도음식",
+            "road_address": "서울 용산구 한강대로23길 55 HDC아이파크몰 리빙파크 7층",
+            "jibun_address": "한강로3가 40-999 HDC아이파크몰 리빙파크 7층"
+        },
+        {
+            "name": "곱 마포점",
+            "parking_type": "곱창,막창,양",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "아우어베이커리 용산아이파크몰점",
+            "parking_type": "베이커리",
+            "road_address": "서울 용산구 한강대로23길 55 4층 17-2호",
+            "jibun_address": "한강로3가 40-999 4층 17-2호"
+        },
+        {
+            "name": "노보텔 스위트 앰배서더 서울 용산",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 청파로20길 95",
+            "jibun_address": "한강로3가 40-969"
+        },
+        {
+            "name": "과학동아천문대",
+            "parking_type": "천문대",
+            "road_address": "서울 용산구 청파로 109 7층 과학동아천문대",
+            "jibun_address": "한강로3가 1-1"
+        },
+        {
+            "name": "라운드스시",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로21길 7 나동 1층(한강로3가)",
+            "jibun_address": "한강로3가 40-134 나동 1층(한강로3가)"
+        },
+        {
+            "name": "용산역광장",
+            "parking_type": "근린공원",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "포비 용산",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 리빙파크 4층",
+            "jibun_address": "한강로3가 40-999 리빙파크 4층"
+        },
+        {
+            "name": "레뽀드라라 용산점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로7길 6 1층",
+            "jibun_address": "한강로3가 40-605 1층"
+        },
+        {
+            "name": "몽상가",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로38가길 7-16",
+            "jibun_address": "한강로2가 153-2"
+        },
+        {
+            "name": "바통",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로15길 33 바통",
+            "jibun_address": "한강로3가 40-198 바통"
+        },
+        {
+            "name": "오근내 닭갈비",
+            "parking_type": "닭갈비",
+            "road_address": "서울 용산구 이촌로29길 15",
+            "jibun_address": "한강로3가 40-90"
+        },
+        {
+            "name": "서울드래곤시티",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 청파로20길 95 서울드래곤시티",
+            "jibun_address": "한강로3가 40-969 서울드래곤시티"
+        },
+        {
+            "name": "타르틴베이커리 용산아이파크몰점",
+            "parking_type": "베이커리",
+            "road_address": "서울 용산구 한강대로23길 55 HDC 아이파크몰 패션파크 1층",
+            "jibun_address": "한강로3가 40-999 HDC 아이파크몰 패션파크 1층"
+        },
+        {
+            "name": "948kitchen Blue 용산아이파크몰점",
+            "parking_type": "샤브샤브",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "이태리이층집",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로48길 15 2층 이태리이층집",
+            "jibun_address": "한강로2가 96-2 2층 이태리이층집"
+        },
+        {
+            "name": "뭍",
+            "parking_type": "브런치",
+            "road_address": "서울 용산구 한강대로 100 지하1층 B101-2호",
+            "jibun_address": "한강로2가 424 지하1층 B101-2호"
+        },
+        {
+            "name": "토끼정 용산 아이파크몰",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 6층 토끼정",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "어항로",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로52길 17-4",
+            "jibun_address": "한강로2가 24-2"
+        },
+        {
+            "name": "프릳츠 도화점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 마포구 새창로2길 17",
+            "jibun_address": "도화동 179-9"
+        },
+        {
+            "name": "롯데시네마 용산",
+            "parking_type": "영화관",
+            "road_address": "서울 용산구 청파로 74 전자랜드(본관)",
+            "jibun_address": "한강로3가 16-9 전자랜드(본관)"
+        },
+        {
+            "name": "크림크럼",
+            "parking_type": "베이커리",
+            "road_address": "서울 용산구 한강대로 95 래미안용산더센트럴 상가 지하 1층 B123호",
+            "jibun_address": "한강로2가 422 래미안용산더센트럴 상가 지하 1층 B123호"
+        },
+        {
+            "name": "그랜드 머큐어 앰배서더 호텔 앤 레지던스 서울 용산",
+            "parking_type": "",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "버터라이스클럽 용산점",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로7길 22-17 1층",
+            "jibun_address": "한강로3가 40-218 1층"
+        },
+        {
+            "name": "물고기주택",
+            "parking_type": "생선회",
+            "road_address": "서울 용산구 한강대로48길 19",
+            "jibun_address": "한강로2가 87-8"
+        },
+        {
+            "name": "매드포갈릭 용산아이파크몰점",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 TASTE PARK 5층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 TASTE PARK 5층"
+        },
+        {
+            "name": "도야집",
+            "parking_type": "돼지고기구이",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "메종 루블랑",
+            "parking_type": "프랑스음식",
+            "road_address": "서울 용산구 한강대로15길 19-22 1층",
+            "jibun_address": "한강로3가 40-159 1층"
+        },
+        {
+            "name": "카츠8 용산아이파크몰점",
+            "parking_type": "돈가스",
+            "road_address": "서울 용산구 한강대로23길 55 용산역 아이파크몰 4층",
+            "jibun_address": "한강로3가 40-999 용산역 아이파크몰 4층"
+        },
+        {
+            "name": "hGarden999",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 더 센터 4층 hGarden999",
+            "jibun_address": "한강로3가 40-999 아이파크몰 더 센터 4층 hGarden999"
+        },
+        {
+            "name": "세광양대창 용산점",
+            "parking_type": "곱창,막창,양",
+            "road_address": "서울 용산구 한강대로 144 1층",
+            "jibun_address": "한강로2가 93-3 1층"
+        },
+        {
+            "name": "오설록티하우스 1979점",
+            "parking_type": "차",
+            "road_address": "서울 용산구 한강대로 100 아모레퍼시픽 1층",
+            "jibun_address": "한강로2가 424 아모레퍼시픽 1층"
+        },
+        {
+            "name": "팝콘D스퀘어",
+            "parking_type": "복합문화공간",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테마파크 6층 1-1호",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테마파크 6층 1-1호"
+        },
+        {
+            "name": "로스트인홍콩",
+            "parking_type": "중식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "호우섬 용산 아이파크몰점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 서관 7층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 서관 7층"
+        },
+        {
+            "name": "당스",
+            "parking_type": "양식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "국립중앙박물관 극장 용",
+            "parking_type": "부속시설",
+            "road_address": "서울 용산구 서빙고로 137 국립중앙박물관",
+            "jibun_address": "용산동6가 11-426"
+        },
+        {
+            "name": "양인환대 정인",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로40길 14 2층 104호 양인환대 정인",
+            "jibun_address": "한강로2가 143-1 2층 104호 양인환대 정인"
+        },
+        {
+            "name": "잇샐러드 용산아이파크몰점",
+            "parking_type": "다이어트,샐러드",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 7층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 7층"
+        },
+        {
+            "name": "골든볼",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로50길 31",
+            "jibun_address": "한강로2가 53-4"
+        },
+        {
+            "name": "포카치아델라스트라다",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로46길 11",
+            "jibun_address": "한강로2가 105-3"
+        },
+        {
+            "name": "카키문",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 백범로99길 40 102동 106, 107호 카키문",
+            "jibun_address": "한강로2가 426 102동 106, 107호 카키문"
+        },
+        {
+            "name": "을지로골목집 신용산점",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로42길 14 1층",
+            "jibun_address": "한강로2가 121-4 1층"
+        },
+        {
+            "name": "온기정 용산아이파크몰점",
+            "parking_type": "덮밥",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "양인환대",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로40길 14 지상 1층 101호",
+            "jibun_address": "한강로2가 143-1 지상 1층 101호"
+        },
+        {
+            "name": "더백테라스",
+            "parking_type": "햄버거",
+            "road_address": "서울 용산구 한강대로40길 26 3층",
+            "jibun_address": "한강로2가 147 3층"
+        },
+        {
+            "name": "팝퍼블 용산아이파크몰점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테마파크 6층 팝콘D스퀘어",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테마파크 6층 팝콘D스퀘어"
+        },
+        {
+            "name": "한입소반",
+            "parking_type": "김밥",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "남도분식 용산아이파크점",
+            "parking_type": "분식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 리빙파크 7층 D7 남도분식",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 리빙파크 7층 D7 남도분식"
+        },
+        {
+            "name": "서울드래곤시티 THE 26",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 청파로20길 95 노보텔 스위트 앰배서더 용산 26F",
+            "jibun_address": "한강로3가 40-969 노보텔 스위트 앰배서더 용산 26F"
+        },
+        {
+            "name": "중화객잔 수",
+            "parking_type": "중식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "고청담 용산점",
+            "parking_type": "소고기구이",
+            "road_address": "서울 용산구 한강대로 100 아모레퍼시픽 본사 지하1층",
+            "jibun_address": "한강로2가 424 아모레퍼시픽 본사 지하1층"
+        },
+        {
+            "name": "용산역사박물관",
+            "parking_type": "박물관",
+            "road_address": "서울 용산구 한강대로14길 35-29",
+            "jibun_address": "한강로3가 65-154"
+        },
+        {
+            "name": "오네스토",
+            "parking_type": "스파게티,파스타전문",
+            "road_address": "서울 용산구 한강대로52길 19 1~2층 오네스토",
+            "jibun_address": "한강로2가 24-5 1~2층 오네스토"
+        },
+        {
+            "name": "열정도쭈꾸미",
+            "parking_type": "주꾸미요리",
+            "road_address": "서울 용산구 백범로87길 40 열정도쭈꾸미",
+            "jibun_address": "원효로1가 121-45 열정도쭈꾸미"
+        },
+        {
+            "name": "크리스탈제이드 용산 아이파크몰점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 한강대로23길 55 용산 아이파크몰 리빙파크관 7층",
+            "jibun_address": "한강로3가 40-999 용산 아이파크몰 리빙파크관 7층"
+        },
+        {
+            "name": "도화곱창",
+            "parking_type": "곱창,막창,양",
+            "road_address": "서울 마포구 새창로2길 13 1층",
+            "jibun_address": "도화동 179-7 1층"
+        },
+        {
+            "name": "라멘짱 용산아이파크몰점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로23길 55 용산 아이파크몰 7층",
+            "jibun_address": "한강로3가 40-999 용산 아이파크몰 7층"
+        },
+        {
+            "name": "도토리숲 용산 아이파크몰점",
+            "parking_type": "문구,팬시용품",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 6층 팝콘D스퀘어",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "폰트 용산점",
+            "parking_type": "카페",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "북천",
+            "parking_type": "돈가스",
+            "road_address": "서울 용산구 한강대로10길 17",
+            "jibun_address": "한강로3가 65-195"
+        },
+        {
+            "name": "아이파크몰 용산점",
+            "parking_type": "쇼핑센터,할인매장",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "서울드래곤시티 푸드익스체인지",
+            "parking_type": "뷔페",
+            "road_address": "서울 용산구 청파로20길 95 노보텔 앰배서더 서울 용산 2F",
+            "jibun_address": "한강로3가 40-969 노보텔 앰배서더 서울 용산 2F"
+        },
+        {
+            "name": "르궅",
+            "parking_type": "와인",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "후라토식당 용산점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로30길 25 아스테리움 용산 지하1층 B102호",
+            "jibun_address": "한강로2가 419 아스테리움 용산 지하1층 B102호"
+        },
+        {
+            "name": "사랑이 뭐길래",
+            "parking_type": "와인",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "금은돈",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로14가길 14 1층 금은돈",
+            "jibun_address": "한강로3가 65-180 1층 금은돈"
+        },
+        {
+            "name": "아이엠베이글 용산점",
+            "parking_type": "브런치카페",
+            "road_address": "서울 용산구 서빙고로 17 제몰동 1층 1098호, 1099호",
+            "jibun_address": "한강로3가 98 제몰동 1층 1098호, 1099호"
+        },
+        {
+            "name": "쏠티캐빈 화이트 용리단길점",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로40길 9 1층, 2층 쏠티캐빈 화이트 용리단길점",
+            "jibun_address": "한강로2가 126 1층, 2층 쏠티캐빈 화이트 용리단길점"
+        },
+        {
+            "name": "플랜튜드 아이파크몰 용산점",
+            "parking_type": "퓨전음식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "스시우미 용산",
+            "parking_type": "초밥,롤",
+            "road_address": "서울 용산구 한강대로 69 상가동 B101-2호",
+            "jibun_address": "한강로2가 420 상가동 B101-2호"
+        },
+        {
+            "name": "에그앤플라워",
+            "parking_type": "스파게티,파스타전문",
+            "road_address": "서울 용산구 신흥로26길 35 2층",
+            "jibun_address": "용산동2가 1-549 2층"
+        },
+        {
+            "name": "노커어퍼",
+            "parking_type": "바(BAR)",
+            "road_address": "서울 용산구 한강대로46길 15-6 지상1, 2층",
+            "jibun_address": "한강로2가 84-6 지상1, 2층"
+        },
+        {
+            "name": "산동",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로39길 5",
+            "jibun_address": "한강로2가 311-2"
+        },
+        {
+            "name": "인바이티드",
+            "parking_type": "테이크아웃커피",
+            "road_address": "서울 용산구 한강대로52길 41 인바이티드",
+            "jibun_address": "한강로1가 221-8 인바이티드"
+        },
+        {
+            "name": "3F LOBBY",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로15길 19-19 3층",
+            "jibun_address": "한강로3가 40-642"
+        },
+        {
+            "name": "니뽕내뽕 용산아이파크몰점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 서관6층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 서관6층"
+        },
+        {
+            "name": "정성손칼국수",
+            "parking_type": "칼국수,만두",
+            "road_address": "서울 용산구 한강대로48길 18",
+            "jibun_address": "한강로2가 98-1"
+        },
+        {
+            "name": "신류 용산점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 한강대로 100 아모레퍼시픽 본사 지하 1층",
+            "jibun_address": "한강로2가 424 아모레퍼시픽 본사 지하 1층"
+        },
+        {
+            "name": "하이타이 신용산",
+            "parking_type": "태국음식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "씨네드쉐프 용산아이파크몰",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 6층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 6층"
+        },
+        {
+            "name": "신용산닭한마리 본점",
+            "parking_type": "닭요리",
+            "road_address": "서울 용산구 한강대로42길 12 1층 신용산닭한마리 본점",
+            "jibun_address": "한강로2가 121-3 1층 신용산닭한마리 본점"
+        },
+        {
+            "name": "라오삐약 신용산점",
+            "parking_type": "아시아음식",
+            "road_address": "서울 용산구 한강대로46길 16 1층",
+            "jibun_address": "한강로2가 107-3 1층"
+        },
+        {
+            "name": "크리스피프레시 용산아이파크몰점",
+            "parking_type": "다이어트,샐러드",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 4층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 4층"
+        },
+        {
+            "name": "직각식탁",
+            "parking_type": "술집",
+            "road_address": "서울 용산구 한강대로21길 17-12 2층 직각식탁",
+            "jibun_address": "한강로3가 40-123 2층 직각식탁"
+        },
+        {
+            "name": "보스라멘",
+            "parking_type": "일본식라면",
+            "road_address": "서울 용산구 청파로 74 신관동 6층",
+            "jibun_address": "한강로3가 16-9 신관동 6층"
+        },
+        {
+            "name": "챔피언1250 아이파크몰 용산점",
+            "parking_type": "키즈카페,실내놀이터",
+            "road_address": "서울 용산구 한강대로21나길 17",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "위크레페 아이파크몰점",
+            "parking_type": "크레페",
+            "road_address": "서울 용산구 한강대로23길 55 더 센터6F",
+            "jibun_address": "한강로3가 40-999 더 센터6F"
+        },
+        {
+            "name": "GOONIES",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로44길 21 1층(한강로2가)",
+            "jibun_address": "한강로2가 81-3 1층()"
+        },
+        {
+            "name": "범스피자",
+            "parking_type": "피자",
+            "road_address": "서울 용산구 한강대로40가길 18 1층",
+            "jibun_address": "한강로2가 62-2 1층"
+        },
+        {
+            "name": "홍홍",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로7길 30-18 1층",
+            "jibun_address": "한강로3가 40-294 1층"
+        },
+        {
+            "name": "가람떡갈비",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로15길 16",
+            "jibun_address": "한강로3가 40-441"
+        },
+        {
+            "name": "미가오니기라즈",
+            "parking_type": "김밥",
+            "road_address": "서울 용산구 한강대로23길 55 3층 미가오니기라즈",
+            "jibun_address": "한강로3가 40-999 3층 미가오니기라즈"
+        },
+        {
+            "name": "피피에스",
+            "parking_type": "햄버거",
+            "road_address": "서울 용산구 한강대로50길 24",
+            "jibun_address": "한강로2가 86-1"
+        },
+        {
+            "name": "해방식당",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 신흥로22길 5 1층 해방식당",
+            "jibun_address": "용산동2가 1-555 1층 해방식당"
+        },
+        {
+            "name": "돈돈정 용산아이파크몰점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로21나길 17",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "이조순대국",
+            "parking_type": "순대,순댓국",
+            "road_address": "서울 용산구 원효로41길 54 이조순대국",
+            "jibun_address": "원효로2가 91-10 이조순대국"
+        },
+        {
+            "name": "슈퍼말차 용산아이파크몰",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테이스트파크 6F",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테이스트파크 6F"
+        },
+        {
+            "name": "카키바움",
+            "parking_type": "독일음식",
+            "road_address": "서울 용산구 한강대로52길 29",
+            "jibun_address": "한강로1가 225-1"
+        },
+        {
+            "name": "기와",
+            "parking_type": "한정식",
+            "road_address": "서울 용산구 한강대로21나길 40",
+            "jibun_address": "한강로3가 40-946"
+        },
+        {
+            "name": "눕카페&피자펍",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 신흥로26길 20",
+            "jibun_address": "용산동2가 1-206"
+        },
+        {
+            "name": "편백집 용산 아이파크몰점",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 리빙관 7층 디스트릭트7",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 리빙관 7층 디스트릭트7"
+        },
+        {
+            "name": "영풍문고 용산 아이파크몰점",
+            "parking_type": "서점",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "스톡드",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로7길 18-13 2층",
+            "jibun_address": "한강로3가 40-309 2층"
+        },
+        {
+            "name": "호텔더디자이너스 서울역점",
+            "parking_type": "호텔",
+            "road_address": "서울 용산구 한강대로 305",
+            "jibun_address": "갈월동 69-27"
+        },
+        {
+            "name": "야키토리쿠이신보 삼각지점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로52길 29-6 1층",
+            "jibun_address": "한강로1가 224-3 1층"
+        },
+        {
+            "name": "이여곰탕 용산점",
+            "parking_type": "곰탕,설렁탕",
+            "road_address": "서울 용산구 한강대로 136",
+            "jibun_address": "한강로2가 109-2"
+        },
+        {
+            "name": "공릉닭한마리 용산점",
+            "parking_type": "닭요리",
+            "road_address": "서울 용산구 새창로 213-12 1층",
+            "jibun_address": "한강로2가 2-36 1층"
+        },
+        {
+            "name": "신라마라탕 용산아이파크몰점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테이스트파크 4층 2-2호",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테이스트파크 4층 2-2호"
+        },
+        {
+            "name": "무미유미",
+            "parking_type": "종합분식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "빵앗간토끼",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로15길 19-26 B1층",
+            "jibun_address": "한강로3가 40-615 B1층"
+        },
+        {
+            "name": "마블베이크",
+            "parking_type": "베이커리",
+            "road_address": "서울 용산구 한강대로38길 23",
+            "jibun_address": "용산동5가 2-6"
+        },
+        {
+            "name": "포르투7 용산아이파크몰점",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 테이스트파크 6층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 테이스트파크 6층"
+        },
+        {
+            "name": "핸드앤몰트 브루랩 용산",
+            "parking_type": "맥주,호프",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "이마트 용산점",
+            "parking_type": "슈퍼,마트",
+            "road_address": "서울 용산구 한강대로23길 55 이마트용산점",
+            "jibun_address": "한강로3가 40-999 이마트용산점"
+        },
+        {
+            "name": "시그니처랩 용산아이파크몰점",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 7층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 리빙파크 7층"
+        },
+        {
+            "name": "스타벅스 용산아이파크몰점",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999 현대아이파크몰(용산역민자역사)"
+        },
+        {
+            "name": "삼송빵집 용산역",
+            "parking_type": "베이커리",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "한담곱창 용산본점",
+            "parking_type": "곱창,막창,양",
+            "road_address": "서울 용산구 새창로 209 1층 한담곱창",
+            "jibun_address": "한강로2가 2-194 1층 한담곱창"
+        },
+        {
+            "name": "하연옥 용산점",
+            "parking_type": "냉면",
+            "road_address": "서울 용산구 한강대로40가길 42 2층",
+            "jibun_address": "한강로2가 49-1 2층"
+        },
+        {
+            "name": "한강솥",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로21길 17 1층",
+            "jibun_address": "한강로3가 40-505 1층"
+        },
+        {
+            "name": "팟카파우",
+            "parking_type": "태국음식",
+            "road_address": "서울 용산구 신흥로 97-6 신흥시장안 2층",
+            "jibun_address": "용산동2가 1-510 신흥시장안 2층"
+        },
+        {
+            "name": "시마스시 용산아이파크몰점",
+            "parking_type": "초밥,롤",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 6층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 6층"
+        },
+        {
+            "name": "소녀방앗간 용산아이파크몰점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 테이스트파크 4층 602-001호",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 테이스트파크 4층 602-001호"
+        },
+        {
+            "name": "콘타이 용산아이파크몰점",
+            "parking_type": "태국음식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "목포명가 용산점",
+            "parking_type": "생선회",
+            "road_address": "서울 용산구 한강대로 130",
+            "jibun_address": "한강로2가 116-4"
+        },
+        {
+            "name": "우월소곱창 마포직영점",
+            "parking_type": "곱창,막창,양",
+            "road_address": "서울 마포구 마포대로 73 1층 111, 112, 113호",
+            "jibun_address": "도화동 556 1층 111, 112, 113호"
+        },
+        {
+            "name": "올라아보 용산아이파크몰점",
+            "parking_type": "멕시코,남미음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산 아이파크몰 4층 테이스티파크",
+            "jibun_address": "한강로3가 40-999 용산 아이파크몰 4층 테이스티파크"
+        },
+        {
+            "name": "차홍룸 용산점",
+            "parking_type": "미용실",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "한담",
+            "parking_type": "돼지고기구이",
+            "road_address": "서울 용산구 한강대로38길 17",
+            "jibun_address": "한강로2가 157-2"
+        },
+        {
+            "name": "더보일러스",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 청파로 112 나진상가 15동 지하1층",
+            "jibun_address": "한강로3가 3-23 나진상가 15동 지하1층"
+        },
+        {
+            "name": "그린호프",
+            "parking_type": "맥주,호프",
+            "road_address": "서울 용산구 한강대로 124",
+            "jibun_address": "한강로2가 136-1"
+        },
+        {
+            "name": "신머이쌀국수 숙대본점",
+            "parking_type": "아시아음식",
+            "road_address": "서울 용산구 청파로45길 9 1층",
+            "jibun_address": "청파동3가 24-44 1층"
+        },
+        {
+            "name": "부라보선술집",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로40가길 15",
+            "jibun_address": "한강로2가 81-6"
+        },
+        {
+            "name": "한땀스시",
+            "parking_type": "초밥,롤",
+            "road_address": "서울 용산구 한강대로 69 용산푸지오써밋 지하 1층 B102-1호",
+            "jibun_address": "한강로2가 420 용산푸지오써밋 지하 1층 B102-1호"
+        },
+        {
+            "name": "장독대김치찜김치찌개 용산점",
+            "parking_type": "찌개,전골",
+            "road_address": "서울 용산구 한강대로23길 55 4층 004-002호",
+            "jibun_address": "한강로3가 40-999 4층 004-002호"
+        },
+        {
+            "name": "다이소 용산아이파크몰점",
+            "parking_type": "종합생활용품",
+            "road_address": "서울 용산구 한강대로23길 55 현대아이파크몰 지하 1층",
+            "jibun_address": "한강로3가 40-999 현대아이파크몰 지하 1층"
+        },
+        {
+            "name": "디즈니 샵",
+            "parking_type": "문구,팬시용품",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "서울드래곤시티 킹스 베케이션",
+            "parking_type": "바(BAR)",
+            "road_address": "서울 용산구 청파로20길 95 서울드래곤시티 스카이킹덤 31층",
+            "jibun_address": "한강로3가 40-969 서울드래곤시티 스카이킹덤 31층"
+        },
+        {
+            "name": "호호",
+            "parking_type": "이자카야",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "주도락 신용산본점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로46길 19 1층",
+            "jibun_address": "한강로2가 84-7 1층"
+        },
+        {
+            "name": "오스테리아 이아드 용산",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로21길 17-7 2층 osteria IAAD",
+            "jibun_address": "한강로3가 40-132 2층 osteria IAAD"
+        },
+        {
+            "name": "봉피양 용산점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로40길 31",
+            "jibun_address": "한강로2가 77-1"
+        },
+        {
+            "name": "용리단길",
+            "parking_type": "문화거리",
+            "road_address": "",
+            "jibun_address": "서울 용산구 한강로2가복"
+        },
+        {
+            "name": "유니클로 용산 아이파크몰점",
+            "parking_type": "캐주얼웨어",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 2F",
+            "jibun_address": "한강로3가 40-999 아이파크몰 2F"
+        },
+        {
+            "name": "스타벅스 용산역써밋R점",
+            "parking_type": "카페",
+            "road_address": "",
+            "jibun_address": "서울 용산구 한강로2가 391 용산푸르지오써밋"
+        },
+        {
+            "name": "에르디 용산점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로15길 23-12 1층",
+            "jibun_address": "한강로3가 40-471 1층"
+        },
+        {
+            "name": "쏠티캐빈 용산직영점",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 새창로44길 10 1층 쏠티캐빈 용산직영점",
+            "jibun_address": "신계동 40-1 1층 쏠티캐빈 용산직영점"
+        },
+        {
+            "name": "용산피보",
+            "parking_type": "와인",
+            "road_address": "서울 용산구 백범로99길 40 트리스퀘어 102동 113호",
+            "jibun_address": "한강로2가 426 트리스퀘어 102동 113호"
+        },
+        {
+            "name": "히츠지야 용산점",
+            "parking_type": "양갈비",
+            "road_address": "서울 용산구 한강대로 126 1층 히츠지야 용산점",
+            "jibun_address": "한강로2가 135-1 1층 히츠지야 용산점"
+        },
+        {
+            "name": "심상",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로40길 14 2층",
+            "jibun_address": "한강로2가 143-1 2층"
+        },
+        {
+            "name": "스시츠바사",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로 100 지하1층 B104-4호",
+            "jibun_address": "한강로2가 424 지하1층 B104-4호"
+        },
+        {
+            "name": "볼드핸즈",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로21길 17-7 1층",
+            "jibun_address": "한강로3가 40-132 1층"
+        },
+        {
+            "name": "불꾼 신용산점",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로 126-4 불꾼",
+            "jibun_address": "한강로2가 133 불꾼"
+        },
+        {
+            "name": "한강로칼국수용산아이파크몰점",
+            "parking_type": "칼국수,만두",
+            "road_address": "서울 용산구 한강대로23길 55 용산역",
+            "jibun_address": "한강로3가 40-999 용산역"
+        },
+        {
+            "name": "반포식스 용산아이파크몰점",
+            "parking_type": "베트남음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰점 4층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰점 4층"
+        },
+        {
+            "name": "호랑이식당 용산아이파크몰점",
+            "parking_type": "아시아음식",
+            "road_address": "서울 용산구 한강대로23길 55 리빙파크 7층 디스트릭트 7",
+            "jibun_address": "한강로3가 40-999 리빙파크 7층 디스트릭트 7"
+        },
+        {
+            "name": "고카페 용산아이파크몰점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰더센터 5층",
+            "jibun_address": "한강로3가 40-999 아이파크몰더센터 5층"
+        },
+        {
+            "name": "트래버틴",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로7길 18-7",
+            "jibun_address": "한강로3가 40-317"
+        },
+        {
+            "name": "용산은행나무포차",
+            "parking_type": "포장마차",
+            "road_address": "서울 용산구 서빙고로 4-12",
+            "jibun_address": "한강로3가 49-3"
+        },
+        {
+            "name": "고두리 용산점",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로39길 10 1층",
+            "jibun_address": "한강로2가 2-39 1층"
+        },
+        {
+            "name": "열정도고깃집",
+            "parking_type": "돼지고기구이",
+            "road_address": "서울 용산구 백범로87길 55 열정도고깃집",
+            "jibun_address": "원효로1가 44-11 열정도고깃집"
+        },
+        {
+            "name": "대한버거 용산아이파크몰점",
+            "parking_type": "햄버거",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 7층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 7층"
+        },
+        {
+            "name": "홍대개미 용산아이파크몰점",
+            "parking_type": "덮밥",
+            "road_address": "서울 용산구 한강대로23길 55 7층 홍대개미",
+            "jibun_address": "한강로3가 40-999 7층 홍대개미"
+        },
+        {
+            "name": "찬장 용산 아이파크몰점",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 7층 District7 찬장",
+            "jibun_address": "한강로3가 40-999 아이파크몰 리빙파크 7층 District7 찬장"
+        },
+        {
+            "name": "이스터 서울",
+            "parking_type": "카페,디저트",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "펠어커피 용산점",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로 55 1층 102호",
+            "jibun_address": "한강로3가 40-592 1층 102호"
+        },
+        {
+            "name": "수락",
+            "parking_type": "우동,소바",
+            "road_address": "서울 용산구 서빙고로 17 용산센트럴파크 해링턴스퀘어상가 1층 110호",
+            "jibun_address": "한강로3가 63-70 용산센트럴파크 해링턴스퀘어상가 1층 110호"
+        },
+        {
+            "name": "피즈",
+            "parking_type": "와인",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "굿손 신용산점",
+            "parking_type": "아시아음식",
+            "road_address": "서울 용산구 한강대로48길 17-4 1층 굿손",
+            "jibun_address": "한강로2가 87-2 1층 굿손"
+        },
+        {
+            "name": "라공방 용산아이파크몰점",
+            "parking_type": "마라탕",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 테이스트파크 6층 3003호",
+            "jibun_address": "한강로3가 40-999 아이파크몰 테이스트파크 6층 3003호"
+        },
+        {
+            "name": "목계화원",
+            "parking_type": "닭요리",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "포동푸딩 용산점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로7길 23-9 1층",
+            "jibun_address": "한강로3가 40-364 1층"
+        },
+        {
+            "name": "손문 대구막창 갈매기살",
+            "parking_type": "곱창,막창,양",
+            "road_address": "서울 용산구 새창로 213-9",
+            "jibun_address": "한강로2가 2-194"
+        },
+        {
+            "name": "어반펫츠",
+            "parking_type": "애견카페",
+            "road_address": "서울 용산구 한강대로21길 7 3층",
+            "jibun_address": "한강로3가 40-134 3층"
+        },
+        {
+            "name": "월화식당",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 마포구 도화길 29 1, 2층",
+            "jibun_address": "도화동 179-5 1, 2층"
+        },
+        {
+            "name": "osiu",
+            "parking_type": "와인",
+            "road_address": "서울 용산구 한강대로72길 11-22 1층",
+            "jibun_address": "남영동 114-17 1층"
+        },
+        {
+            "name": "럭키호프",
+            "parking_type": "맥주,호프",
+            "road_address": "서울 용산구 한강대로15길 19-4",
+            "jibun_address": "한강로3가 40-167"
+        },
+        {
+            "name": "창화돈",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 백범로99길 56 1, 2층",
+            "jibun_address": "한강로1가 254-1 1, 2층"
+        },
+        {
+            "name": "더닝",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로 126-1 1층, 2층",
+            "jibun_address": "한강로2가 131 1층, 2층"
+        },
+        {
+            "name": "펍피맥 신용산점",
+            "parking_type": "피자",
+            "road_address": "서울 용산구 한강대로40길 30",
+            "jibun_address": "한강로2가 148-3"
+        },
+        {
+            "name": "ZARA 용산 아이파크몰점",
+            "parking_type": "종합패션",
+            "road_address": "서울 용산구 한강대로23길 55 (아이파크몰 1F)",
+            "jibun_address": "한강로3가 40-999 아이파크몰 1F"
+        },
+        {
+            "name": "갓포미르",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로 92 LS 용산 타워 지하1층",
+            "jibun_address": "한강로2가 191 LS 용산 타워 지하1층"
+        },
+        {
+            "name": "이북집 찹쌀순대 용산점",
+            "parking_type": "순대,순댓국",
+            "road_address": "서울 용산구 한강대로40길 19 2층",
+            "jibun_address": "한강로2가 121-6 2층"
+        },
+        {
+            "name": "태양 용산점",
+            "parking_type": "중식당",
+            "road_address": "서울 용산구 백범로99길 54 1층",
+            "jibun_address": "한강로1가 253 1층"
+        },
+        {
+            "name": "이모션캐슬 로열부티크",
+            "parking_type": "무대의상",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 8층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 리빙파크 8층"
+        },
+        {
+            "name": "영미화김밥 용산점",
+            "parking_type": "김밥",
+            "road_address": "서울 용산구 서빙고로 17 센트럴파크 해링턴스퀘어 104동 1층 1050호",
+            "jibun_address": "한강로3가 98 센트럴파크 해링턴스퀘어 104동 1층 1050호"
+        },
+        {
+            "name": "생활맥주 용산한강대로점",
+            "parking_type": "맥주,호프",
+            "road_address": "서울 용산구 한강대로21길 17-12 1층 생활맥주",
+            "jibun_address": "한강로3가 40-123 1층 생활맥주"
+        },
+        {
+            "name": "테라코타 용산점",
+            "parking_type": "이탈리아음식",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 테이스트파크 7F",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 테이스트파크 7F"
+        },
+        {
+            "name": "하나모코시",
+            "parking_type": "일식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "마라돈왕주먹고기",
+            "parking_type": "육류,고기요리",
+            "road_address": "서울 용산구 한강대로17길 7",
+            "jibun_address": "한강로3가 40-142"
+        },
+        {
+            "name": "식물학 아이파크몰점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 용산역 4층",
+            "jibun_address": "한강로3가 40-999 용산역 4층"
+        },
+        {
+            "name": "양복점 용산점",
+            "parking_type": "양꼬치",
+            "road_address": "서울 용산구 새창로 209 1층",
+            "jibun_address": "한강로2가 2-194 1층"
+        },
+        {
+            "name": "용산면가",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로15길 12 1층",
+            "jibun_address": "한강로3가 40-141 1층"
+        },
+        {
+            "name": "성모이비인후과의원",
+            "parking_type": "이비인후과",
+            "road_address": "서울 용산구 서빙고로 17 용산센트럴파크 해링턴스퀘어 105동 2층 10, 11호",
+            "jibun_address": "한강로3가 63-70"
+        },
+        {
+            "name": "조개깡패연구소 용산점",
+            "parking_type": "조개요리",
+            "road_address": "서울 용산구 새창로 217 1층",
+            "jibun_address": "한강로2가 2-37 1층"
+        },
+        {
+            "name": "히비",
+            "parking_type": "카레",
+            "road_address": "서울 용산구 백범로87길 24 1층",
+            "jibun_address": "원효로1가 128-12 1층"
+        },
+        {
+            "name": "당케커피",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로48길 16",
+            "jibun_address": "한강로2가 99-1"
+        },
+        {
+            "name": "아이파크몰리빙파크",
+            "parking_type": "쇼핑센터,할인매장",
+            "road_address": "서울 용산구 한강대로21나길 17",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "용문갈비",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 새창로 127",
+            "jibun_address": "용문동 18-17"
+        },
+        {
+            "name": "경아식당 용산점",
+            "parking_type": "찌개,전골",
+            "road_address": "서울 용산구 한강대로7길 10-13 1층",
+            "jibun_address": "한강로3가 40-643 1층"
+        },
+        {
+            "name": "데칼코마니",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 신흥로 97-4 신흥시장 1층 데칼코마니",
+            "jibun_address": "용산동2가 1-506 신흥시장 1층 데칼코마니"
+        },
+        {
+            "name": "낙하산커피",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로46길 25 101호",
+            "jibun_address": "한강로2가 83-4"
+        },
+        {
+            "name": "동식탁",
+            "parking_type": "요리주점",
+            "road_address": "서울 용산구 한강대로 130-1 동식탁",
+            "jibun_address": "한강로2가 116-3"
+        },
+        {
+            "name": "미션브레이크 용산",
+            "parking_type": "방탈출카페",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 6층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 6층"
+        },
+        {
+            "name": "오캄 용산아이파크몰점",
+            "parking_type": "미용실",
+            "road_address": "서울 용산구 한강대로23길 55 리빙파크관 8층 오캄",
+            "jibun_address": "한강로3가 40-999 리빙파크관 8층 오캄"
+        },
+        {
+            "name": "진가와 용산 아이파크몰점",
+            "parking_type": "일식당",
+            "road_address": "서울 용산구 한강대로23길 55 리빙관 7층 진가와 용산아이파크몰점",
+            "jibun_address": "한강로3가 40-999 리빙관 7층 진가와 용산아이파크몰점"
+        },
+        {
+            "name": "기마이",
+            "parking_type": "한식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "팔공티 용산아이파크몰점",
+            "parking_type": "차",
+            "road_address": "서울 용산구 한강대로23길 55 지하 1층",
+            "jibun_address": "한강로3가 40-999 지하 1층"
+        },
+        {
+            "name": "아방 갤러리 카페 용산아이파크몰점",
+            "parking_type": "베이커리",
+            "road_address": "서울 용산구 한강대로23길 55 용산아이파크몰 리빙관 1층",
+            "jibun_address": "한강로3가 40-999 용산아이파크몰 리빙관 1층"
+        },
+        {
+            "name": "최가네 숯불구이",
+            "parking_type": "정육식당",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "영앤스윗",
+            "parking_type": "케이크전문",
+            "road_address": "서울 용산구 한강대로 69 푸르지오써밋 상가동 3층 319-2호",
+            "jibun_address": "한강로2가 420 푸르지오써밋 상가동 3층 319-2호"
+        },
+        {
+            "name": "정성돈가스",
+            "parking_type": "돈가스",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "BBQ치킨 용산아이파크몰점",
+            "parking_type": "치킨,닭강정",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "올리브영 용산아이파크몰점",
+            "parking_type": "드럭스토어",
+            "road_address": "서울 용산구 한강대로23길 55 HDC 아이파크몰 더 썬더 4F",
+            "jibun_address": "한강로3가 40-999 HDC 아이파크몰 더 썬더 4F"
+        },
+        {
+            "name": "헤븐온탑 용산아이파크몰점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55",
+            "jibun_address": "한강로3가 40-999"
+        },
+        {
+            "name": "포켓몬카드숍 아이파크몰점",
+            "parking_type": "문구,팬시용품",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "스시소라 마포점",
+            "parking_type": "일식당",
+            "road_address": "서울 마포구 마포대로 68",
+            "jibun_address": "도화동 563"
+        },
+        {
+            "name": "알라메종 와인앤다인",
+            "parking_type": "양식",
+            "road_address": "서울 용산구 청파로20길 95 그랜드 머큐어 앰배서더 서울 용산 1F",
+            "jibun_address": "한강로3가 40-969"
+        },
+        {
+            "name": "해방집",
+            "parking_type": "포장마차",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "HYBE",
+            "parking_type": "연예기획사",
+            "road_address": "서울 용산구 한강대로 42",
+            "jibun_address": "한강로3가 65-9"
+        },
+        {
+            "name": "투썸플레이스 용산아이파크몰점",
+            "parking_type": "카페",
+            "road_address": "서울 용산구 한강대로23길 55 용산역",
+            "jibun_address": "한강로3가 40-999 용산역"
+        },
+        {
+            "name": "용산전자상가",
+            "parking_type": "컴퓨터,모니터",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "국립중앙박물관",
+            "parking_type": "박물관",
+            "road_address": "서울 용산구 서빙고로 137 국립중앙박물관",
+            "jibun_address": "용산동6가 168-6 국립중앙박물관"
+        },
+        {
+            "name": "탑텐 아이파크몰 용산점",
+            "parking_type": "캐주얼웨어",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 2F",
+            "jibun_address": "한강로3가 40-999 아이파크몰 2F"
+        },
+        {
+            "name": "삼성전자서비스 용산센터",
+            "parking_type": "수리,AS",
+            "road_address": "서울 용산구 한강대로 314 삼성스토어 용산 2층",
+            "jibun_address": "갈월동 14-60 삼성스토어 용산 2층"
+        },
+        {
+            "name": "순대실록 아이파크몰점",
+            "parking_type": "순대,순댓국",
+            "road_address": "서울 용산구 한강대로23길 55 리빙파크 D7 7층 순대실록",
+            "jibun_address": "한강로3가 40-999 리빙파크 D7 7층 순대실록"
+        },
+        {
+            "name": "로리스피자",
+            "parking_type": "피자",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "제주옥",
+            "parking_type": "한식",
+            "road_address": "서울 용산구 한강대로38가길 7-20 1층",
+            "jibun_address": "한강로2가 156-12 1층"
+        },
+        {
+            "name": "차홍룸 용산센트럴점",
+            "parking_type": "미용실",
+            "road_address": "서울 용산구 한강대로 95 래미안더센트럴 A동 2층 204호",
+            "jibun_address": "한강로2가 422 래미안더센트럴 A동 2층 204호"
+        },
+        {
+            "name": "바스버거 용산점",
+            "parking_type": "햄버거",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "이모션캐슬 잉글리시",
+            "parking_type": "키즈카페,실내놀이터",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 리빙파크 8층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 리빙파크 8층"
+        },
+        {
+            "name": "마스터키친 용산아이파크몰점",
+            "parking_type": "양식",
+            "road_address": "",
+            "jibun_address": ""
+        },
+        {
+            "name": "컴피 삼각지",
+            "parking_type": "와인",
+            "road_address": "서울 용산구 한강대로42길 4 2층",
+            "jibun_address": "한강로2가 123-4 2층"
+        },
+        {
+            "name": "오시오카페 by 아카렌가 아이파크몰 용산점",
+            "parking_type": "카페,디저트",
+            "road_address": "서울 용산구 한강대로23길 55 아이파크몰 용산점 6층",
+            "jibun_address": "한강로3가 40-999 아이파크몰 용산점 6층"
+        },
+        {
+            "name": "멘타미",
+            "parking_type": "일본식라면",
+            "road_address": "서울 용산구 한강대로76길 9 1층",
+            "jibun_address": "남영동 90-6 1층"
+        }
+    ]
+}
